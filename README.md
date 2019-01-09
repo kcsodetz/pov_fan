@@ -21,17 +21,15 @@ Upload the .ino file found in `pov_fan_arduino_sketch` to the Arduino UNO and ma
 With the pins on the fan facing the __right__ side, from top to bottom:
 
 
-Fan   <---> Arduino
+Fan  <---> Arduino
 
+> DATA  <---> A4
 
+> VCC   <---> 3.3V
 
-DATA  <---> A4
+> CLK   <---> A5
 
-VCC   <---> 3.3V
-
-CLK   <---> A5
-
-GND   <---> GND
+> GND   <---> GND
 
 
 _Note_: The last pin on the fan is not used.
