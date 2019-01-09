@@ -24,11 +24,8 @@ With the pins on the fan facing the __right__ side, from top to bottom:
 Fan  <---> Arduino
 
 > DATA  <---> A4
-
 > VCC   <---> 3.3V
-
 > CLK   <---> A5
-
 > GND   <---> GND
 
 
